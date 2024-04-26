@@ -17,7 +17,7 @@ router.get('/profile', async function (req, res){
     };    
 });
 
-// /api/highline get highline
+// /api/highline get highlineyar
 //前端 http://localhost/api/highline
 //后端 http://localhost:8000/highline
 router.get('/highline', async(req, res) => {

@@ -1,0 +1,18 @@
+{
+    "profile": {
+        "name": "John Doe",
+        "at": "@johndoe",
+        "img_src": "./src/image/profile/profile_1.png"
+    },
+
+    "highline": {
+        "description": [
+            "Your Stories",
+            "Your View",
+            "Your Emotion",
+            "Your Opinion",
+            "Your Feeling",
+            "Your Love"
+        ]
+    }
+}
